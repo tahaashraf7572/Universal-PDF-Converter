@@ -1,0 +1,6 @@
+{
+  "name": "Universal PDF Converter and Cloud Storage Dashboard",
+  "description": "An all-in-one platform to convert various file formats into PDFs, manage them in cloud folders with encryption and granular permissions, use bulk processing, dark mode, offline backup, and multiple languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
